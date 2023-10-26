@@ -4,7 +4,9 @@
 ------------------------
 Sandstorms, also known as dust storms, occur when strong winds pick up and carry large amounts of sand and
 dust particles, often resulting in reduced visibility and air quality. Sandstorms can severely impact agriculture, infrastructure, and human health, making early detection crucial.
-![10](https://github.com/Abdelrahman3ly/Graduation_Project---Identify-Sand-Storm-using-Deep-Learning/assets/67483743/0ccfaa73-9159-4c04-8b91-43061b294461) |
+Original Image
+![10](https://github.com/Abdelrahman3ly/Graduation_Project---Identify-Sand-Storm-using-Deep-Learning/assets/67483743/0ccfaa73-9159-4c04-8b91-43061b294461)
+Mask Image
 ![10_GT](https://github.com/Abdelrahman3ly/Graduation_Project---Identify-Sand-Storm-using-Deep-Learning/assets/67483743/b10fe5c2-3e88-4659-9f3c-0cf8956eedd2)
 
 
